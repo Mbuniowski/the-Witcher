@@ -3,6 +3,10 @@
     margin: 0;
     box-sizing: border-box;
 }
+a{
+    text-decoration: nome;
+    color: inherit;
+}
 body{
     height: 100vh;
     background-image: url(img/image\ 1.png);
@@ -11,6 +15,7 @@ body{
     display: flex;
     flex-direction: column;
     padding: 32px 96px 16px 96px;
+    
 
 }
 
